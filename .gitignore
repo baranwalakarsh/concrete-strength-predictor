@@ -10,8 +10,8 @@ venv/
 .env/
 
 # Model files (optional – include only if needed)
-*.joblib
-*.pkl
+# *.joblib
+# *.pkl
 
 # OS files
 .DS_Store
